@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the Parliament sitting at Westminster</title>
+            <author>Lynam, Margaret, d. 1697.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09458</idno><idno type="EEBO-CITATION">69648725</idno>
+  <idno type="VID">184969</idno>
+  <idno type="EEBO-PROQUEST">2248532673</idno>
+  
+            <idno type="STC">Wing L3564AA</idno>
+            <idno type="STC">ESTC R180213</idno>
+            <idno type="OCLC">69648725</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184969)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2882:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the Parliament sitting at Westminster</title>
+                  <author>Lynam, Margaret, d. 1697.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: M. L.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184969:1"/>
+            <head>For the Parliament sitting at Westminster.</head>
+            <p>By one who hath suffered much in joyning with this Parliament in this late warr, for it was said to be for liberty of conscience, whereby I was free to part with much that I then did enjoy, which was to my great losse, but yet I can<g ref="char:EOLhyphen"/>not see liberty to the faithful, and to such who be of an upright heart, who preach the Lord Jesus and not themselves, those that are called Quakers in scorn, which hath suffered bonds, death and torture, and all the cruelty that men that call them<g ref="char:EOLhyphen"/>selves Christians can inflict upon them, and at this present near killing in your streets, for obedience to the pure truth which shines in the consciences of men; for them I bear my testimony, but against the false Prophet and long deceivers of the souls of the people in this Nation and elsewhere, who hath long made it their trade to teach others, and they themselves unlearned and out of the doctrine of Christ, being greedy for gain will kill and persecute; the just is grieved with their idolatrous worship; Oh how idolatry appears at the time called Christmas, the tender heart<g ref="char:EOLhyphen"/>ed sees and feels the sad abhominations! Oh the cruelty of those that are called Christians, Ministers in <hi>New-England</hi> and elsewhere, which say they have a Law to uphold them, but their Law will not uphold them, nor the Priests in the day of account, though they beget <hi>Hammon</hi>-like spirits in the hearts of people who would have <hi>Mordecai</hi> to bow before him! Oh the sad and cruel usage of the <hi>New-English</hi> members which they inflicted upon the bodies of those that came in love to visit their souls! I never read nor heard of such before; but it was the desire of the Apo<g ref="char:EOLhyphen"/>stle that he might be delivered from unreasonable men, which signifies there is un<g ref="char:EOLhyphen"/>reasonable men, but such are not fit to be members in a Christian Church, for these are of the sort which creep into houses leading captive silly women, ever learning, and never able to come to the knowledge of the truth.</p>
+            <p>Oh unto you that are in Parliament, who hath hid your selves in obscurity for a long time, and have not been valiant for truth upon earth in this the day of the Lords power, who hath wonderfully made the earth to shake at his presence, and brightnesse of his appearing, who hath caused the lofty Oakes and tall Cedars to bow before the dread of his Majesty, Glory be to his Name for ever; those that are tender hearted amongst you cannot but be sensible of this great work; but yet the heritage of <hi>Jacob</hi> lies waste, and few of you is given up to follow the Lamb, the cry of the oppressed is heard in your streets, but is by few of you laid to heart; verily, now you are called into a great work, which you must appear what you are, the light will make you manifest; therefore hearken to the cry of the oppressed with<g ref="char:EOLhyphen"/>in you, which is willing to follow the Lamb wheresoever he goeth, then you shall know to take off the burthen of the oppressed in others.</p>
+            <p>Oh remember the time when first you were assembled in Parliament, though your enemies were great, and you but few in number, the work was carried on for you, and the Lords presence went before you to the overturning the Nations, that the day of his power might appear in the earth, as it hath done gloriously to the overturning the powers of darknesse in a great measure, but his day by most of you hath been sleighted; therefore now are you called upon, that you may hearken to the light in the conscience, the Lords messenger, which will cause you to act in righteousnesse, that so you may be preserved from the enemies within and without you; I as one of the least and lowest that is worthy to bear a Testimony for the un<g ref="char:EOLhyphen"/>changeable truth, do exhort you, and this whole Nation to hasten and meet the Lord by speedy repentance, that you may wait in his fear, and be guided by his councel, that a day of darknesse may not overtake you, but if you do not appear valiant for truth in this day that you are called upon, then the Lord will do his work without you.</p>
+            <p>
+               <hi>This I have written to clear my conscience to you, and to the Priests as a witnesse a<g ref="char:EOLhyphen"/>gainst them, that they may no longer deceive the souls of the people, and that they may turn to the Lord and so find mercy; Though <hi>Gog</hi> and <hi>Magog</hi> gather themselves in battel against the Saints, their work shall not prosper; Now if you refuse to hear, your bloods will be upon your own heads, and I shall be clear.</hi>
+            </p>
+            <closer>
+               <signed>M. L.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
